@@ -12,7 +12,7 @@ body{
 	text-align:center;
 }
 h1{
-	margin-left: 250px;
+  text-align:center;
 	font-size:4em;
 	margin-top:5%;
   font-family: 'Source Code Pro';
@@ -36,15 +36,10 @@ h1{
 	0%   {color:#C0C0C0;}
     50%  {color: #ff7300;}
 }
-section{
-	width:100%;
-	margin:5% 10% 0 10%;
-	font-family: 'Source Code Pro'; 
-}
+
 textarea{
-		text-align:center;
-	background:#fff3a3; 
-	padding:1em; 
+	text-align:center;
+	background:#fff3a3;
 	width:80%; 5%;
   height:10em;
 	font-size:2em;
