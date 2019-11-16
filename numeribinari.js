@@ -59,8 +59,6 @@ const table = {
 
 };
 
-if (/[A-Za-z]/)
-
 const message =document.getElementById("text");	
 console.log(message.value);
 const letters = message.value.split("");
