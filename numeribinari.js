@@ -16,6 +16,8 @@ const table = {
 	h:"01000",
 	i:"01001",
 	j:"01010",
+	k:"01011",
+	l:"01100",
 	m:"01101",
 	n:"01110",
 	o:"01111",
@@ -41,6 +43,8 @@ const table = {
 	H:"01000",
 	I:"01001",
 	J:"01010",
+	K:"01011",
+	L:"01100",
 	M:"01101",
 	N:"01110",
 	O:"01111",
@@ -58,6 +62,8 @@ const table = {
 
 
 };
+
+
 
 const message =document.getElementById("text");	
 console.log(message.value);
